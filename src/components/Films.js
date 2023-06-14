@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Films.css";
-import { Films } from "./ListOfFilms";
+import { Films } from "./shared/ListOfFilms";
 
 export default class films extends Component {
   render() {
